@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @akdauletov-daniyar
+## Hi, i'm Daniyar!
+I'm the Computer Sceince sutdent of Nazarbayev Intellectual School in Kyzylorda, Kazakhstan<br>
+
 
 
 # 💻 Tech Stack:
