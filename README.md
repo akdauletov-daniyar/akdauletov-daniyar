@@ -2,7 +2,7 @@
 I'm the Computer Sceince sutdent of Nazarbayev Intellectual School in Kyzylorda, Kazakhstan<br>
 ## You can also follow me on my scoial media:
 <ul>
-  <li><a href="https://www.instagram.com/oesleytee/" target="_blank">Instagram</a></li>
+  <li><a href="https://www.instagram.com/oesleytee/" target="blank">Instagram</a></li>
 </ul>
 
 
