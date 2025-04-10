@@ -1,6 +1,9 @@
 ## Hi, i'm Daniyar!
 I'm the Computer Sceince sutdent of Nazarbayev Intellectual School in Kyzylorda, Kazakhstan<br>
-
+### You can also follow me on my scoial media:
+<ul>
+  <li>[Instagram](https://www.instagram.com/oesleytee)</li>
+</ul>
 
 
 # 💻 Tech Stack:
