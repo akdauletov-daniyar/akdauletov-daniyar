@@ -1,6 +1,6 @@
 # Hi, i'm Daniyar!
 I'm the Computer Sceince student of Nazarbayev Intellectual School in Kyzylorda, Kazakhstan<br>
-## You can also follow me on my scoial media:
+## You can also follow me on my social media:
 <ul>
   <li><a href="https://www.instagram.com/oesleytee/" target="_blank">Instagram</a></li>
 </ul>
