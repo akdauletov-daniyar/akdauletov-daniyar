@@ -19,9 +19,6 @@ I'm the Computer Science student in Nazarbayev Intellectual School in Kyzylorda,
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akdauletov-daniyar&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=akdauletov-daniyar&theme=codeSTACKr&hide_border=true)<br/>
@@ -29,5 +26,3 @@ I'm the Computer Science student in Nazarbayev Intellectual School in Kyzylorda,
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akdauletov-daniyar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
